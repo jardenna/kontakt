@@ -1,0 +1,17 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+}
+
+.form {
+  width: 50%;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  border: none;
+}
+input {
+  margin: 10px 0;
+  padding: 5px;
+}
